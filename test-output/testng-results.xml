@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-26T01:36:43 IST" name="Default suite" finished-at="2020-04-26T01:36:50 IST" duration-ms="7043">
+    <groups>
+    </groups>
+    <test started-at="2020-04-26T01:36:43 IST" name="Default test" finished-at="2020-04-26T01:36:50 IST" duration-ms="7043">
+      <class name="liveProject.RegistrationPage_Test">
+        <test-method signature="Should_Successfully_Register_Using_ValidData()[pri:0, instance:liveProject.RegistrationPage_Test@5762806e]" started-at="2020-04-26T01:36:43 IST" name="Should_Successfully_Register_Using_ValidData" finished-at="2020-04-26T01:36:50 IST" duration-ms="7012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Successfully_Register_Using_ValidData -->
+      </class> <!-- liveProject.RegistrationPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
